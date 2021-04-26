@@ -8,7 +8,7 @@ A C++ Console Application that:
 -Enter your input in a file called input.txt with the following format:  
 gate_name input1_node_name input2_node_name  output_node_name  
 #### Example:  
-AND A B C
+AND A B C  
 OR X Y Z
 
 

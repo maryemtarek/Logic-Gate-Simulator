@@ -9,6 +9,12 @@ A C++ Console Application that:
 gate_name input1_node_name input2_node_name  output_node_name  
 #### Example:  
 AND A B C  
-OR X Y Z
-
+OR X Y Z  
+SET A 0  
+SET B 1  
+SET X 0  
+SET Y 0  
+SIM  
+OUT C  
+OUT Z  
 

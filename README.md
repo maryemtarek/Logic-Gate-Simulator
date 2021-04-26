@@ -5,9 +5,10 @@ A C++ Console Application that:
 -He is able to see the values of nodes after Simulating the circuit.
 
 ## Input Format  
-Enter your input in a file called input.txt with the following format:  
+-Enter your input in a file called input.txt with the following format:  
 gate_name input1_node_name input2_node_name  output_node_name  
-Example:  
+####Example:  
 AND A B C
+OR X Y Z
 
 

@@ -7,6 +7,9 @@ A C++ Console Application that:
 ## Input Format  
 -Enter your input in a file called input.txt with the following format:  
 gate_name input1_node_name input2_node_name  output_node_name  
+SET gate_name gate_value  
+SIM  
+OUT gate_name  
 #### Example:  
 AND A B C  
 OR X Y Z  
